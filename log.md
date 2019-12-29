@@ -1,4 +1,39 @@
+---
+tags:
+  - coding
+props:
+  startDate: 12-26-2019
+computed:
+  daysIn: Math.ceil(((new Date()).getTime() - (new Date('${startDate}')).getTime()) / (1000 * 3600 * 24))
+  daysToGo: 100 - Number(${daysIn})
+  startDay: (new Date('${startDate}')).toDateString()
+  today: (new Date()).toDateString()
+template: >
+  # :100: Days of code, Day ${daysIn}: ${today}
+  
+  **Today's Progress:**
+
+  **Thoughts:**
+
+  **Link to work:**
+
+  #100DaysOfCode
+links:
+  - 
+    pack: fab # Can be fab or fas https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use
+    icon: twitter # The font-awesome icon to use 
+    title: Tweet this card
+    href: https://twitter.com/intent/tweet?text=${encodedText}%0ATweeted%20with%20@imdoneio
+---
+
 # 100 Days Of Code - Log
+<!-- 
+#NOTE:0 # :100: Days of code: Day ${daysIn}
+**Days to go: ${daysToGo}**
+**Started on: ${startDay}**
+- [Edit My 100 Days of Code log](log.md:0:1)
+- [#100DaysOfCode on Twitter](https://twitter.com/search?q=%23100DaysOfCode)
+-->
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
@@ -28,3 +63,30 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+#DONE:5 # :100: Days of code: Day 2
+#100DaysOfCode
+- imdone: Added new card template in frontMatter for 100DaysOfCode
+
+#DONE:10 # :100: Days of code: Day 3
+#100DaysOfCode
+- Added tweet button from log.md frontMatter to easily tweet progress
+
+
+#DONE:20 # :100: Days of code: Day 3
+#100DaysOfCode
+- Added frontMatter variables to imdone to automatically show day's progress
+
+#DONE:2.5 # :100: Days of code, Day 3: Sat Dec 28 2019
+**Today's Progress:** Added the standard log.md entry as task template
+**Thoughts:** Looking good so far, hopefully release by monday!
+**Link to work:** [imdone.io](http://imdone.io)
+#100DaysOfCode
+
+
+#DONE:0 # :100: Days of code, Day 4: Sun Dec 29 2019
+**Today's Progress:** Implemented YAML config for imdone
+**Thoughts:** Much cleaner layout and consistent with use of frontMatter
+**Link to work:** [imdone](https://imdone.io)
+#100DaysOfCode
+
