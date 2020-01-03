@@ -27,3 +27,5 @@ settings:
   cards:
     colors: []
   journalPath: /notes
+  maxLines: 10
+  taskPrefix: "###"
