@@ -117,16 +117,23 @@ Day job is keeping me from releasing imdone templates today
 imdone.io
 #100DaysOfCode #EatYourOwnDogfood
 
-### #DONE:0 # :100: Days of code, Day 8: Thu Jan 02 2020
+### #DONE:0.078125 # :100: Days of code, Day 8: Thu Jan 02 2020
 **Today's Progress:**
 :rocket: Made imdone journal respect single file in config for 100-days-of-code template  
 **Thoughts:** Now on to adding new projects from templates  
 **Link to work:** imdone.io  
 #100DaysOfCode
 
-### #DOING:0 # :100: Days of code, Day 8: Thu Jan 02 2020
-:rocket: **Progress:**  
-:thought_balloon: **Thoughts:**  
-:link: **Links to work:**  
+### #DONE:0 # :100: Days of code, Day 8: Thu Jan 02 2020
+:rocket: **Progress:** imdone is now pulling in github:imdone/templates readme
+:thought_balloon: **Thoughts:** Trying to make it easy for community template creation
+:link: **Links to work:** https://github.com/imdone/templates
+#100DaysOfCode
+
+
+### #DOING:0 # :100: Days of code, Day 10: Sat Jan 04 2020
+:rocket: **Progress:** Finished ability to add projects from template in imdone.
+:thought_balloon: **Thoughts:** Continue working on pre-populated board for people new to coding.
+:link: **Links to work:** https://github.com/imdone/templates
 #100DaysOfCode
 
