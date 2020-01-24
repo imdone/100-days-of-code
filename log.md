@@ -251,9 +251,16 @@ imdone.io
 #100DaysOfCode
 
 
-### [# :100: Days of code, Day 27: Tue Jan 21 2020](#DONE:0)
+### [# :100: Days of code, Day 27: Tue Jan 21 2020](#DONE:1.4901161193847656e-7)
 :rocket: docs, docs, docs, docs
 :thought_balloon: docs, docs, docs, docs
+:link: imdone.io
+#100DaysOfCode
+
+
+### [# :100: Days of code, Day 29: Thu Jan 23 2020](#DONE:0)
+:rocket: Released imdone 1.4.7 yesterday
+:thought_balloon: Today - Create and share a short video explaining due dates and filtered lists
 :link: imdone.io
 #100DaysOfCode
 
