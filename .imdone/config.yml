@@ -14,28 +14,30 @@ code:
     - NOTE
     - REVIEW
 lists:
-  - name: NOTE
-    hidden: false
-    tasks: []
-  - name: TODO
-    hidden: true
-    tasks: []
-  - name: DOING
-    hidden: false
-    tasks: []
-  - name: DONE
-    hidden: false
-    tasks: []
+  - hidden: false
+    name: NOTE
+  - hidden: true
+    name: TODO
+  - hidden: false
+    name: DOING
+  - hidden: false
+    ignore: false
+    name: DONE
 settings:
+  journalType: Single File
+  journalPath: /notes
+  taskPrefix: '###'
+  maxLines: 10
+  addNewCardsToTop: false
+  newCardSyntax: MARKDOWN
   appendNewCardsTo: log.md
   cards:
     colors:
       - color: black
         filter: placeholder
+      - color: red
+        filter: +urgent
+  doneList: DONE
   filteredLists: []
-  journalPath: /notes
-  maxLines: 10
-  newCardSyntax: MARKDOWN
-  taskPrefix: '###'
 sync:
   useImdoneioForPriority: false
