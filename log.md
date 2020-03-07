@@ -544,10 +544,17 @@ function jesse () {
 #100DaysOfCode
 
 
-### [:100: Days of code, Day 73: Sat Mar 07 2020](#DONE:0)
+### [:100: Days of code, Day 73: Sat Mar 07 2020](#DONE:10)
 <!-- completed:2020-03-07T19:13:09.796Z -->
 :rocket: Move Lists to kebab menu for 1.4.20 release  
 :thought_balloon: Don't touch files if they haven't changed  
 :link: imdone.io  
+#100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
+
+
+### [:100: Days of code, Day 73: Sat Mar 07 2020](#DOING:20)
+:rocket:  
+:thought_balloon:  
+:link:  
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
