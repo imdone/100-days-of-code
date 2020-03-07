@@ -16,7 +16,7 @@ code:
 lists:
   - hidden: false
     name: NOTE
-  - hidden: false
+  - hidden: true
     name: TODO
   - hidden: false
     name: DOING
