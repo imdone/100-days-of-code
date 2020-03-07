@@ -14,7 +14,7 @@ template: |
   :rocket:  
   :thought_balloon:  
   :link:  
-  #100DaysOfCode
+  #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 links:
   - pack: fab # Can be fab or fas https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use
     icon: twitter # The font-awesome icon to use 
@@ -502,17 +502,52 @@ function jesse () {
 
 ### [:100: Days of code, Day 65: Fri Feb 28 2020](#DONE:4.440892098500626e-15)
 <!-- completed:2020-02-28T19:12:33.847Z -->
-:rocket: Added markdown image size plugin 'markdown-it-imsize'
-:nerd_face: `![](logo/imdone-logo-small.png =24x)`
+:rocket: Added markdown image size plugin 'markdown-it-imsize'  
+:nerd_face: `![](logo/imdone-logo-small.png =24x)`  
 :thought_balloon: Warn user to save changes if they leave card editor  
 :link: imdone.io  
 #100DaysOfCode
 
 
-### [:100: Days of code, Day 68: Mon Mar 02 2020](#DONE:0)
+### [:100: Days of code, Day 68: Mon Mar 02 2020](#DONE:2.220446049250313e-15)
 <!-- completed:2020-03-02T17:18:25.461Z -->
 :rocket: Warn user to save changes if they leave editor  
 :thought_balloon: Dcoument and release 1.4.20  
 :link: imdone.io  
 #100DaysOfCode
+
+
+### [:100: Days of code, Day 68: Mon Mar 02 2020](#DONE:1.1102230246251565e-15)
+<!-- completed:2020-03-03T16:35:51.444Z -->
+:rocket: More product docs for...  
+:heavy_check_mark: journal and card templates  
+:heavy_check_mark: String interpolation with javascript expressions  
+:thought_balloon: Update changelog and send email for 1.4.20  
+:link: imdone.io  
+#100DaysOfCode
+
+
+### [:100: Days of code, Day 70: Wed Mar 04 2020](#DONE:5.551115123125783e-16)
+<!-- completed:2020-03-06T20:33:52.413Z -->
+:rocket: Put the finishing touches on imdone 1.4.20 documentation  
+:rocket: Released imdone 1.4.20  
+:thought_balloon: Review bugs and feature requests for next release  
+:link: imdone.io  
+#100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
+
+
+### [:100: Days of code, Day 72: Fri Mar 06 2020](#DONE:0)
+<!-- completed:2020-03-06T20:37:39.913Z -->
+:rocket: Created a nice little javascript terminal interface for sax effects with ChucK  
+:thought_balloon: Use spork to combine effects  
+:link: https://chuck.cs.princeton.edu/  
+#100DaysOfCode
+
+
+### [:100: Days of code, Day 73: Sat Mar 07 2020](#DONE:0)
+<!-- completed:2020-03-07T19:13:09.796Z -->
+:rocket: Move Lists to kebab menu for 1.4.20 release  
+:thought_balloon: Don't touch files if they haven't changed  
+:link: imdone.io  
+#100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
