@@ -553,8 +553,8 @@ function jesse () {
 
 
 ### [:100: Days of code, Day 73: Sat Mar 07 2020](#DOING:20)
-:rocket: Don't touch files with imdone unless they're modified  
-:thought_balloon:  
-:link:  
+:rocket: Add progress property to cards for easy progress bar  
+:thought_balloon: Give focus to card editor on continue editing  
+:link: imdone.io  
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
