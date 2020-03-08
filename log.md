@@ -536,7 +536,7 @@ function jesse () {
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
 
-### [:100: Days of code, Day 72: Fri Mar 06 2020](#DONE:0)
+### [:100: Days of code, Day 72: Fri Mar 06 2020](#DONE:2.7755575615628914e-16)
 <!-- completed:2020-03-06T20:37:39.913Z -->
 :rocket: Created a nice little javascript terminal interface for sax effects with ChucK  
 :thought_balloon: Use spork to combine effects  
@@ -552,7 +552,8 @@ function jesse () {
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
 
-### [:100: Days of code, Day 73: Sat Mar 07 2020](#DOING:20)
+### [:100: Days of code, Day 73: Sat Mar 07 2020](#DONE:0)
+<!-- completed:2020-03-08T17:34:44.895Z -->
 :rocket: Add progress property to cards for easy progress bar  
 :thought_balloon: Give focus to card editor on continue editing  
 :link: imdone.io  
