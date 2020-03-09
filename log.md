@@ -559,3 +559,11 @@ function jesse () {
 :link: imdone.io  
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
+
+### [:100: Days of code, Day 75: Mon Mar 09 2020](#DOING:20)
+:rocket: Fixed checkbox alignment
+:rocket: Progress bar that can be added to any card
+:thought_balloon: Look at bugs and features for next release  
+:link: imdone.io
+#100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
+
