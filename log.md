@@ -552,7 +552,7 @@ function jesse () {
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
 
-### [:100: Days of code, Day 73: Sat Mar 07 2020](#DONE:1.3877787807814457e-16)
+### [:100: Days of code, Day 73: Sat Mar 07 2020](#DONE:1.0408340855860843e-16)
 <!-- completed:2020-03-08T17:34:44.895Z -->
 :rocket: Add progress property to cards for easy progress bar  
 :thought_balloon: Give focus to card editor on continue editing  
@@ -560,7 +560,8 @@ function jesse () {
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
 
-### [:100: Days of code, Day 75: Mon Mar 09 2020](#DOING:20)
+### [:100: Days of code, Day 75: Mon Mar 09 2020](#DONE:0)
+<!-- completed:2020-03-09T17:51:49.123Z -->
 :rocket: Fixed checkbox alignment
 :rocket: Progress bar that can be added to any card
 :thought_balloon: Look at bugs and features for next release  
