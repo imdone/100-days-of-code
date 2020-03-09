@@ -17,7 +17,7 @@ template: |
   #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 links:
   - pack: fab # Can be fab or fas https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use
-    icon: fa-fa-twitter # The font-awesome icon to use 
+    icon: fa-twitter # The font-awesome icon to use 
     title: Tweet this card
     href: https://twitter.com/intent/tweet?text=${encodedText}%0A@imdoneio
 ---
