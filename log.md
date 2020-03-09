@@ -544,7 +544,7 @@ function jesse () {
 #100DaysOfCode
 
 
-### [:100: Days of code, Day 73: Sat Mar 07 2020](#DONE:10)
+### [:100: Days of code, Day 73: Sat Mar 07 2020](#DONE:0)
 <!-- completed:2020-03-07T19:13:09.796Z -->
 :rocket: Move Lists to kebab menu for 1.4.20 release  
 :thought_balloon: Don't touch files if they haven't changed  
@@ -552,7 +552,7 @@ function jesse () {
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
 
-### [:100: Days of code, Day 73: Sat Mar 07 2020](#DONE:0)
+### [:100: Days of code, Day 73: Sat Mar 07 2020](#DONE:1.3877787807814457e-16)
 <!-- completed:2020-03-08T17:34:44.895Z -->
 :rocket: Add progress property to cards for easy progress bar  
 :thought_balloon: Give focus to card editor on continue editing  
