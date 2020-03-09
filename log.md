@@ -552,7 +552,7 @@ function jesse () {
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
 
-### [:100: Days of code, Day 73: Sat Mar 07 2020](#DOING:0)
+### [:100: Days of code, Day 73: Sat Mar 07 2020](#DONE:0)
 <!-- completed:2020-03-08T17:34:44.895Z -->
 :rocket: Add progress property to cards for easy progress bar  
 :thought_balloon: Give focus to card editor on continue editing  
