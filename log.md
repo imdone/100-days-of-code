@@ -560,7 +560,7 @@ function jesse () {
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
 
-### [:100: Days of code, Day 75: Mon Mar 09 2020](#DONE:0)
+### [:100: Days of code, Day 75: Mon Mar 09 2020](#DONE:5.204170427930421e-17)
 <!-- completed:2020-03-09T17:51:49.123Z -->
 :rocket: Fixed checkbox alignment
 :rocket: Progress bar that can be added to any card
@@ -569,7 +569,8 @@ function jesse () {
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
 
-### [:100: Days of code, Day 82: Mon Mar 16 2020](#DOING:20)
+### [:100: Days of code, Day 82: Mon Mar 16 2020](#DONE:0)
+<!-- completed:2020-03-16T22:14:05.793Z -->
 :rocket: Ask for journalType when new project is added  
 :rocket: Fix tabbing and untabbing selection  
 :rocket: Add replaceSpaceWith setting for "New File" journalType  
