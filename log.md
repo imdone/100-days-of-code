@@ -568,3 +568,11 @@ function jesse () {
 :link: imdone.io
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
+
+### [:100: Days of code, Day 82: Mon Mar 16 2020](#DOING:20)
+:rocket: Ask for journal type when new project is added  
+:rocket: Fix tabbing and untabbing selection  
+:thought_balloon:  
+:link:  
+#100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
+
