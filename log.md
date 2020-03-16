@@ -570,7 +570,7 @@ function jesse () {
 
 
 ### [:100: Days of code, Day 82: Mon Mar 16 2020](#DOING:20)
-:rocket: Ask for journal type when new project is added  
+:rocket: Ask for journalType when new project is added  
 :rocket: Fix tabbing and untabbing selection  
 :rocket: Add replaceSpaceWith setting for "New File" journalType  
 :link: imdone.io  
