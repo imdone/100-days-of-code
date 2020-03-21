@@ -578,7 +578,7 @@ function jesse () {
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
 
-### [:100: Days of code, Day 87: Sat Mar 21 2020](#DONE:0)
+### [:100: Days of code, Day 87: Sat Mar 21 2020](#DONE:1.3010426069826053e-17)
 <!-- completed:2020-03-21T22:52:45.031Z -->
 :rocket: Getting docs ready for imdone 1.4.21  
 :thought_balloon: Releasing tonight!  
@@ -586,7 +586,8 @@ function jesse () {
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
 
-### [:100: Days of code, Day 87: Sat Mar 21 2020](#DOING:20)
+### [:100: Days of code, Day 87: Sat Mar 21 2020](#DONE:0)
+<!-- completed:2020-03-21T23:03:24.581Z -->
 :rocket: Imdone does javascript expression interpolation!!!
 :rocket: 1.4.21 is out!!!  
 :link: https://imdone.io/docs/#/cards?id=string-interpolation  
