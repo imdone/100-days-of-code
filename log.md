@@ -585,3 +585,10 @@ function jesse () {
 :link: imdone.io  
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
+
+### [:100: Days of code, Day 87: Sat Mar 21 2020](#DOING:20)
+:rocket: Imdone does javascript expression interpolation!!!
+:rocket: 1.4.21 is out!!!  
+:link: https://imdone.io/docs/#/cards?id=string-interpolation  
+#100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
+
