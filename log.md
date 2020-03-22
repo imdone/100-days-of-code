@@ -593,3 +593,10 @@ function jesse () {
 :link: https://imdone.io/docs/#/cards?id=string-interpolation  
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
+
+### [:100: Days of code, Day 88: Sun Mar 22 2020](#DOING:20)
+:rocket: Added toggleComment for imdone 1.2  
+:thought_balloon:  
+:link:  
+#100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
+
