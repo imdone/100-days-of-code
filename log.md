@@ -603,10 +603,10 @@ function jesse () {
 
 
 ### [:100: Days of code, Day 89: Mon Mar 23 2020](#DONE:0)
-<!-- completed:2020-03-23T17:11:11.881Z -->
 :rocket: Markdown/HTML comment hot keys!  
 :rocket: Wrap a line or selection in an HTML comment by pressing cmd or ctrl + / in the card editor.  
 :thought_balloon: Record a getting started video.  
 :link: imdone.io  
 <!--[ #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger ]-->
+<!-- completed:2020-03-23T17:11:11.881Z -->
 
