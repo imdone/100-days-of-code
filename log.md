@@ -588,7 +588,7 @@ function jesse () {
 
 ### [:100: Days of code, Day 87: Sat Mar 21 2020](#DONE:6.5052130349130266e-18)
 <!-- completed:2020-03-21T23:03:24.581Z -->
-:rocket: Imdone does javascript expression interpolation!!!
+:rocket: Imdone does javascript expression interpolation!!!  
 :rocket: 1.4.21 is out!!!  
 :link: https://imdone.io/docs/#/cards?id=string-interpolation  
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
@@ -604,7 +604,7 @@ function jesse () {
 
 ### [:100: Days of code, Day 89: Mon Mar 23 2020](#DONE:0)
 <!-- completed:2020-03-23T17:11:11.881Z -->
-:rocket: Markdown/HTML comment hot keys!
+:rocket: Markdown/HTML comment hot keys!  
 :rocket: Wrap a line or selection in an HTML comment by pressing cmd or ctrl + / in the card editor.  
 :thought_balloon: Record a getting started video.  
 :link: imdone.io  
