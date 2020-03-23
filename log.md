@@ -601,3 +601,11 @@ function jesse () {
 :link: imdone.io  
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
+
+### [:100: Days of code, Day 89: Mon Mar 23 2020](#DOING:20)
+:rocket: Markdown/HTML comment hot keys!
+:rocket: Wrap a line or selection in an HTML comment by pressing cmd or ctrl + / in the card editor.  
+:thought_balloon: Record a getting started video.  
+:link: imdone.io  
+#100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
+
