@@ -594,7 +594,7 @@ function jesse () {
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
 
-### [:100: Days of code, Day 88: Sun Mar 22 2020](#DONE:0)
+### [:100: Days of code, Day 88: Sun Mar 22 2020](#DONE:3.2526065174565133e-18)
 <!-- completed:2020-03-22T14:50:21.236Z -->
 :rocket: Added toggleComment for imdone 1.4.22  
 :thought_balloon: Getting started video is next!  
@@ -602,7 +602,8 @@ function jesse () {
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
 
-### [:100: Days of code, Day 89: Mon Mar 23 2020](#DOING:20)
+### [:100: Days of code, Day 89: Mon Mar 23 2020](#DONE:0)
+<!-- completed:2020-03-23T17:11:11.881Z -->
 :rocket: Markdown/HTML comment hot keys!
 :rocket: Wrap a line or selection in an HTML comment by pressing cmd or ctrl + / in the card editor.  
 :thought_balloon: Record a getting started video.  
