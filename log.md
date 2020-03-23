@@ -608,5 +608,5 @@ function jesse () {
 :rocket: Wrap a line or selection in an HTML comment by pressing cmd or ctrl + / in the card editor.  
 :thought_balloon: Record a getting started video.  
 :link: imdone.io  
-#100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
+<!--[ #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger ]-->
 
