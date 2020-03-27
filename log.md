@@ -622,6 +622,6 @@ function jesse () {
 ### [:100: Days of code, Day 93: Fri Mar 27 2020](#DOING:20)
 :rocket: Recorded my first getting started video for imdone  
 :thought_balloon: Record the "Using Due Dates" video  
-:link:  
+:link: https://vimeo.com/401397987  
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
