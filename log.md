@@ -611,7 +611,7 @@ function jesse () {
 <!-- completed:2020-03-23T17:11:11.881Z -->
 
 
-### [:100: Days of code, Day 92: Thu Mar 26 2020](#DONE:0)
+### [:100: Days of code, Day 92: Thu Mar 26 2020](#DONE:8.131516293641283e-19)
 <!-- completed:2020-03-27T16:25:09.115Z -->
 :rocket: Added card editor themes and option to add getting started cards to new projects  
 :thought_balloon: keep working on videos  
@@ -619,7 +619,8 @@ function jesse () {
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
 
-### [:100: Days of code, Day 93: Fri Mar 27 2020](#DOING:20)
+### [:100: Days of code, Day 93: Fri Mar 27 2020](#DONE:0)
+<!-- completed:2020-03-27T18:15:52.471Z -->
 :rocket: Recorded my first getting started video for imdone  
 :thought_balloon: Record the "Using Due Dates" video  
 :link: https://vimeo.com/401397987  
