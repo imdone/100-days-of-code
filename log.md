@@ -626,3 +626,10 @@ function jesse () {
 :link: https://vimeo.com/401397987  
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
+
+### [:100: Days of code, Day 95: Sun Mar 29 2020](#DOING:20)
+:rocket: Allow cards to be part of a markdown list and end at the next item  
+:thought_balloon: Available Monday AM in imdone 1.4.24!  
+:link: imdone.io  
+#100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
+
