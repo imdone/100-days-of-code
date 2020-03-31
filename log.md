@@ -633,3 +633,10 @@ function jesse () {
 :link: imdone.io  
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
+
+### [:100: Days of code, Day 97: Tue Mar 31 2020](#DOING:20)
+:rocket: Updated project defaults and getting started cards.  
+:thought_balloon: Record a new getting started video  
+:link: imdone.io  
+#100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
+
