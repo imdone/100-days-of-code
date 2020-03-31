@@ -627,14 +627,14 @@ function jesse () {
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
 
-### [:100: Days of code, Day 95: Sun Mar 29 2020 <!-- completed:2020-03-29T21:05:06.580Z -->](#DONE:0)
+### [:100: Days of code, Day 95: Sun Mar 29 2020 <!-- completed:2020-03-29T21:05:06.580Z -->](#DONE:2.0328790734103208e-19)
 :rocket: Allow cards to be part of a markdown list and end at the next item  
 :thought_balloon: Available Monday AM in imdone 1.4.24!  
 :link: imdone.io  
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
 
-### [:100: Days of code, Day 97: Tue Mar 31 2020](#DOING:20)
+### [:100: Days of code, Day 97: Tue Mar 31 2020 <!-- completed:2020-03-31T22:01:58.699Z -->](#DONE:0)
 :rocket: Updated project defaults and getting started cards.  
 :thought_balloon: Record a new getting started video  
 :link: imdone.io  
