@@ -640,3 +640,10 @@ function jesse () {
 :link: imdone.io  
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
+
+### [:100: Days of code, Day 99: Thu Apr 02 2020](#DOING:20)
+:rocket: DRY up truncating markdown for cards  
+:thought_balloon: Record the hiding content video  
+:link: imdone.io  
+#100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
+
