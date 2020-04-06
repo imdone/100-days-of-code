@@ -641,14 +641,14 @@ function jesse () {
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
 
-### [:100: Days of code, Day 99: Thu Apr 02 2020 <!-- completed:2020-04-02T20:59:04.906Z -->](#DONE:0)
+### [:100: Days of code, Day 99: Thu Apr 02 2020 <!-- completed:2020-04-02T20:59:04.906Z -->](#DONE:5.082197683525802e-20)
 :rocket: DRY up truncating markdown for cards  
 :thought_balloon: Record the hiding content video  
 :link: imdone.io  
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
 
-### [:100: Days of code, Day 103: Mon Apr 06 2020](#DOING:20)
+### [:100: Days of code, Day 103: Mon Apr 06 2020 <!-- completed:2020-04-06T14:58:26.875Z -->](#DONE:0)
 :rocket: Fix setting active card when a card is deleted or moved to an ignored list  
 :thought_balloon: Record video for card syntax  
 :link: imdone.io  
