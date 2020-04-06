@@ -39,5 +39,5 @@ I recommend that you commit to no more than 2-3 challenges at a time, ideally 2.
 * If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) and forking it :)
 
 <!--
-#DOING:10 *Placeholder for adding new cards with [space].*
+#DOING:0 *Placeholder for adding new cards with [space].* <!-- completed:2020-04-06T14:58:42.752Z -->
 -->

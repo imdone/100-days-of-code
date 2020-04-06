@@ -648,7 +648,7 @@ function jesse () {
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
 
-### [:100: Days of code, Day 103: Mon Apr 06 2020 <!-- completed:2020-04-06T14:58:26.875Z -->](#DONE:0)
+### [:100: Days of code, Day 103: Mon Apr 06 2020 <!-- completed:2020-04-06T14:58:26.875Z -->](#DONE:2.541098841762901e-20)
 :rocket: Fix setting active card when a card is deleted or moved to an ignored list  
 :thought_balloon: Record video for card syntax  
 :link: imdone.io  
