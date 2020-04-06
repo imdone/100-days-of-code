@@ -647,3 +647,10 @@ function jesse () {
 :link: imdone.io  
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
+
+### [:100: Days of code, Day 103: Mon Apr 06 2020](#DOING:20)
+:rocket: Fix setting active card when a card is deleted or moved to an ignored list  
+:thought_balloon: Record video for card syntax  
+:link: imdone.io  
+#100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
+
