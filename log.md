@@ -14,7 +14,7 @@ template: |
   :rocket:  
   :thought_balloon:  
   :link:  
-  #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
+  #100daysofcode #programmer #developer #markdown #Productivity #indiehackers #blogger
 links:
   - pack: fab # Can be fab or fas https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use
     icon: fa-twitter # The font-awesome icon to use 
