@@ -654,3 +654,10 @@ function jesse () {
 :link: imdone.io  
 #100daysofcode #programmer #developer #hacking #markdown #Productivity #codinglife #indiehackers #blogger
 
+
+### [:100: Days of code, Day 104: Tues Apr 07 2020](#DOING:10)
+:rocket: Allow user to update file template in board settings  
+:thought_balloon: Allow user to provide custom css  
+:link: imdone.io  
+#100daysofcode #programmer #developer #markdown #Productivity #indiehackers #blogger
+
