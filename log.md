@@ -661,3 +661,10 @@ function jesse () {
 :link: imdone.io  
 #100daysofcode #programmer #developer #markdown #Productivity #indiehackers #blogger
 
+
+### [:100: Days of code, Day 106: Thu Apr 09 2020](#DOING:10)
+:rocket: Added getting started video to documentation  
+:thought_balloon:  
+:link:  
+#100daysofcode #programmer #developer #markdown #Productivity #indiehackers #blogger
+
