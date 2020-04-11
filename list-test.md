@@ -16,7 +16,7 @@ links:
 
 # [list test](#DOING:0)
 1. one
-1. a
+   1. a
 2. b
 3. two
    1. three   
