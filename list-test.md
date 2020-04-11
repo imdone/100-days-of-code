@@ -17,8 +17,8 @@ links:
 # [list test](#DOING:0)
 1. one
 2. two
-   3. three
-   4. four
+      1. three
+      2. four
 ----
 four
 <!-- created:2020-04-11T03:38:46.183Z -->
