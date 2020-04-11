@@ -19,9 +19,9 @@ a
 b
 c
 1. one
-   1. a
-2. b
-3. two
+2. a
+3. b
+4. two
    1. three   
    2. four
 ----
