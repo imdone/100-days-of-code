@@ -17,8 +17,8 @@ links:
 # [list test](#DOING:10)
 a
 b
-   c
-   1. one
+c
+1. one
       1. a
 2. b
 3. two
