@@ -14,7 +14,7 @@ links:
     href: https://twitter.com/intent/tweet?text=${encodedText}%0ATweeted%20with%20@imdoneio
 ---
 
-# [list test +walk-through](#DOING:10)
+# [list test](#DOING:10)
 a
 b
 c
