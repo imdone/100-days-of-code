@@ -14,12 +14,12 @@ links:
     href: https://twitter.com/intent/tweet?text=${encodedText}%0ATweeted%20with%20@imdoneio
 ---
 
-# [list test](#DOING:10)
+# [list test +walk-through](#DOING:10)
 a
 b
 c
 1. one
-      1. a
+   1. a
 2. b
 3. two
    1. three   
