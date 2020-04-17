@@ -668,3 +668,10 @@ function jesse () {
 :link: imdone.io/docs/  
 #100daysofcode #programmer #developer #markdown #Productivity #indiehackers #blogger
 
+
+### [:100: Days of code, Day 114: Fri Apr 17 2020](#DOING:20)
+:rocket: Added automatic continuation of markdown list prefix in card editor  
+:thought_balloon: Continue work on help videos  
+:link: imdone.io  
+#100daysofcode #programmer #developer #markdown #Productivity #indiehackers #blogger
+
