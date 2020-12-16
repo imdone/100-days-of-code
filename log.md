@@ -9,12 +9,14 @@ computed:
   startDay: (new Date('${startDate}')).toDateString()
   today: (new Date()).toDateString()
   now: (new Date()).getTime()
+  timestamp: (new Date()).toISOString()
 template: |
   :100: Days of code, Day ${daysIn}: ${today}
   :rocket:  
   :thought_balloon:  
-  :link:  
+  :link: imdone.io  
   #100daysofcode #programmer #developer #markdown #Productivity #indiehackers #blogger
+  <!-- created: ${timestamp} -->
 links:
   - pack: fab # Can be fab or fas https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use
     icon: fa-twitter # The font-awesome icon to use 
@@ -24,7 +26,7 @@ links:
 
 # 100 Days Of Code - Log
 <!-- 
-#NOTE:0 # :100: Days of code: Day ${daysIn} expand:1
+#NOTE:0 # :100: Days of code: Day ${daysIn} expand:true
 **Days to go: ${daysToGo}**
 **Started on: ${startDay}**
 - [Rules](rules.md)
@@ -669,9 +671,103 @@ function jesse () {
 #100daysofcode #programmer #developer #markdown #Productivity #indiehackers #blogger
 
 
-### [:100: Days of code, Day 114: Fri Apr 17 2020 <!-- completed:2020-04-17T15:25:06.411Z -->](#DONE:0)
+### [:100: Days of code, Day 114: Fri Apr 17 2020 <!-- completed:2020-04-17T15:25:06.411Z -->](#DONE:3.1763735522036263e-21)
 :rocket: Added automatic continuation of markdown list prefix in card editor  
 :thought_balloon: Continue work on help videos  
 :link: imdone.io  
 #100daysofcode #programmer #developer #markdown #Productivity #indiehackers #blogger
 
+
+### [:100: Days of code, Day 126: Wed Apr 29 2020 <!-- completed:2020-05-26T15:03:04.480Z -->](#DONE:1.5881867761018131e-21)
+:rocket: imdone 1.4.30 released with markdown list continuation in card editor  
+:thought_balloon: Provide how to videos  
+:link: imdone.io  
+#100daysofcode #programmer #developer #markdown #Productivity #indiehackers #blogger
+
+
+### [I recently added two awesome features in imdone 1.5.1 <!-- completed:2020-05-26T15:07:22.593Z -->](#DONE:7.940933880509066e-22)
+:rocket: Default settings for new project boards
+:rocket: code completion for emoji  
+:link: imdone.io  
+#100daysofcode #programmer #developer #markdown #Productivity #indiehackers #blogger
+
+
+### [:100: Days of code, Day 153: Tue May 26 2020 <!-- completed:2020-05-26T16:44:32.727Z -->](#DONE:4.963083675318166e-23)
+:rocket: Fix autosuggest at start of line in imdone 1.5.2  
+:thought_balloon: Improve performance for ignored lists  
+:link: imdone.io  
+#100daysofcode #programmer #developer #markdown #Productivity #indiehackers #blogger
+
+
+### [:100: Days of code, Day 170: Fri Jun 12 2020 <!-- completed:2020-06-15T20:47:41.837Z -->](#DONE:1.9852334701272664e-22)
+:rocket: Adding an image viewer to imdone  
+:thought_balloon: Improve large project performance  
+:link: imdone.io  
+#100daysofcode #programmer #developer #markdown #Productivity #indiehackers #blogger
+
+
+### [:100: Days of code, Day 173: Mon Jun 15 2020 <!-- completed:2020-06-15T20:47:39.628Z -->](#DONE:9.926167350636332e-23)
+![ ](/Screen%20Shot%202020-06-15%20at%202.27.54%20PM.png)
+:rocket: Released imdone 1.5.5 with image viewer  
+:thought_balloon: Performance for large projects  
+:link: imdone.io  
+#100daysofcode #programmer #developer #markdown #Productivity #indiehackers #blogger
+
+
+### [:100: Days of code, Day 177: Fri Jun 19 2020 <!-- completed:2020-10-22T16:10:05.569Z -->](#DONE:2.481541837659083e-23)
+:rocket: Implementing dark mode for imdone  
+:thought_balloon: Targeting release early next week  
+:link: imdone.io  
+#100daysofcode #programmer #developer #markdown #Productivity #indiehackers #blogger
+
+
+
+### [:100: Days of code, Day 302: Thu Oct 22 2020 <!-- completed:2020-10-22T16:14:38.248Z -->](#DONE:1.2407709188295415e-23)
+:rocket: Implementing performance improvements for imdone 1.6.0  
+:thought_balloon: Harden website automation for scaling up  
+:link: imdone.io  
+#100daysofcode #programmer #developer #markdown #Productivity #indiehackers #blogger
+
+
+### [:100: Days of code, Day 313: Mon Nov 02 2020 <!-- completed:2020-11-02T16:23:37.211Z -->](#DONE:6.2038545941477076e-24)
+:rocket: Fixed issue with toggling list ignore (v1.5.11)  
+:thought_balloon: Make "new project" flow more intuitive  
+:link: imdone.io 
+#100daysofcode #programmer #developer #markdown #Productivity #indiehackers #blogger
+
+
+### [:100: Days of code, Day 323: Thu Nov 12 2020 <!-- completed:2020-11-16T14:12:39.097Z -->](#DONE:3.1019272970738538e-24)
+:rocket: Replacing rql with monquery and sift for more intuitive filter syntax  
+:thought_balloon: Coming in imdone 1.6  
+:link: imdone.io  
+:link: npm.runkit.com/monquery  
+:link: npm.runkit.com/sift  
+#100daysofcode #programmer #developer #markdown #Productivity #indiehackers #blogger
+
+
+### [:100: Days of code, Day 327: Mon Nov 16 2020 <!-- completed:2020-11-16T14:18:27.570Z -->](#DONE:1.5509636485369269e-24)
+:rocket: Imdone 1.6.0 released!
+:rocket: New intuitive search in imdone!  
+:thought_balloon: More performance improvements  
+:link: imdone.io
+:link: https://imdone.io/docs/#/filters  
+#100daysofcode #programmer #developer #markdown #Productivity #indiehackers #blogger
+
+
+### [:100: Days of code, Day 334: Mon Nov 23 2020 <!-- completed:2020-11-24T14:09:58.553Z -->](#DONE:7.754818242684634e-25)
+:rocket: Added meta to card display as badges  
+:thought_balloon: Update card images in docs for meta tags  
+:thought_balloon: Update docs to filter by meta with click  
+:link: imdone.io  
+#100daysofcode #programmer #developer #markdown #Productivity #indiehackers #blogger
+<!-- created:2020-11-24T02:51:05.003Z -->
+
+
+### [:100: Days of code, Day 352: Fri Dec 11 2020](#DONE:0)
+:rocket: Imdone 1.6.10 is out!  
+:rocket: Set a project wide card template  
+:rocket: Enhanced card links with functions/actions  
+:thought_balloon: Update docs!  
+:link: imdone.io  
+#100daysofcode #programmer #developer #markdown #Productivity #indiehackers #blogger
+<!-- created: 2020-12-11T14:52:05.089Z --> completed:2020-12-12T15:43:19.914Z

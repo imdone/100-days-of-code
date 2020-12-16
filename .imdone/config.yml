@@ -35,10 +35,15 @@ settings:
   cards:
     colors:
       - color: black
+        filter: (text = *)
+      - color: black
         filter: placeholder
       - color: red
-        filter: +urgent
+        filter: tags=urgent
   doneList: DONE
+  filterHistory:
+    - allTags = "coding"
+    - imdone
   filteredLists: []
 sync:
   useImdoneioForPriority: false
