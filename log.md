@@ -4,8 +4,8 @@ tags:
 props:
   startDate: 12-26-2019
 computed:
-  daysIn: ${Math.ceil(((new Date()).getTime() - (new Date('${startDate}')).getTime()) / (1000 * 3600 * 24))}
-  daysToGo: ${100 - parseInt(daysIn)}
+  daysIn: ${Math.ceil(((new Date()).getTime() - (new Date(startDate)).getTime()) / (1000 * 3600 * 24))}
+  daysToGo: ${100 - Number(daysIn)}
   startDay: (new Date('${startDate}')).toDateString()
   today: (new Date()).toDateString()
   now: (new Date()).getTime()
