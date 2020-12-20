@@ -6,10 +6,10 @@ props:
 computed:
   daysIn: ${Math.ceil(((new Date()).getTime() - (new Date(startDate)).getTime()) / (1000 * 3600 * 24))}
   daysToGo: ${100 - Number(daysIn)}
-  startDay: (new Date('${startDate}')).toDateString()
-  today: (new Date()).toDateString()
-  now: (new Date()).getTime()
-  timestamp: (new Date()).toISOString()
+  startDay: ${(new Date(startDate)).toDateString()}
+  today: ${(new Date()).toDateString()}
+  now: ${(new Date()).getTime()}
+  timestamp: ${(new Date()).toISOString()}
 template: |
   :100: Days of code, Day ${daysIn}: ${today}
   :rocket:  
